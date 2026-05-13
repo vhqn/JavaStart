@@ -1,0 +1,17 @@
+[
+    {
+        "key": "ctrl+h",
+        "command": "workbench.action.chat.icube.open",
+        "when": "!terminalFocus"
+    },
+    {
+        "key": "ctrl+h",
+        "command": "workbench.action.chat.icube.open",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+h",
+        "command": "-workbench.action.terminal.sendSequence",
+        "when": "terminalFocus"
+    }
+]
