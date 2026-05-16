@@ -1,3 +1,0 @@
-Hello from Java IO!
-Line 2: Learning IO is easy.
-Line 3: Auto-close with try-with-resources.
